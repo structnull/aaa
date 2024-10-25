@@ -1,0 +1,18 @@
+# Declare a variable
+vro count
+
+# Assign a value and print it
+count = 5
+anjima "Initial value of count:"
+anjima count
+
+# Increment and print
+count ++
+anjima "After increment:"
+anjima count
+
+# If statement with a block
+if (count == 6) { anjima "Count is now 6" }
+
+# Exit the program
+anakha
