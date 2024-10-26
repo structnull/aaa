@@ -15,9 +15,9 @@ This is an interpreter for a simple programming language. It allows you to defin
 ## Keywords and Syntax
 
 ### Declaration
-- Use `vro` to declare a new variable with an initial value of 0.
+- Use `adharsh` to declare a new variable with an initial value of 0.
     ```plaintext
-    vro myVar
+    adharsh myVar
     ```
 
 ### Assignment
