@@ -29,9 +29,9 @@ This is an interpreter for a simple programming language. It allows you to defin
 ### Print
 - Use `anjima` to print a string, integer, or variable value.
     ```plaintext
-    anjima "Hello, World!"
-    anjima 42
-    anjima myVar
+    anjima "Hello, World!".
+    anjima 42.
+    anjima myVar.
     ```
 
 ### Increment/Decrement
@@ -73,26 +73,3 @@ This is an interpreter for a simple programming language. It allows you to defin
     // This is also a comment
     ```
 
-## Example Program
-
-Here’s a sample program demonstrating the syntax and features of this language:
-
-```plaintext
-# Declare a variable
-vro count
-
-# Assign a value and print it
-count = 5
-anjima "Initial value of count:"
-anjima count
-
-# Increment and print
-count ++
-anjima "After increment:"
-anjima count
-
-# If statement with a block
-if (count == 6) { anjima "Count is now 6" }
-
-# Exit the program
-anakha
