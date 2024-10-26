@@ -1,75 +1,49 @@
-# AAA Language Interpreter
+<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-This is an interpreter for a simple programming language. It allows you to define and manipulate variables, perform basic arithmetic operations, conditionally execute code, and print values. 
+# [AAA] 🎯
 
-## Features
 
-1. **Variable Declaration**: Define a new variable.
-2. **Assignment**: Assign values to variables.
-3. **Increment/Decrement**: Increment or decrement variable values.
-4. **Arithmetic Operations**: Multiply, divide, and find the modulus.
-5. **Print**: Print strings, numbers, or variable values.
-6. **Conditionals**: Use simple `if` statements with conditions.
-7. **Comments**: Add comments with `#` or `//`.
+## Basic Details
+### Team Name: [Null]
 
-## Keywords and Syntax
 
-### Declaration
-- Use `adharsh` to declare a new variable with an initial value of 0.
-    ```plaintext
-    adharsh myVar
-    ```
+### Team Members
+- Team Lead: [Adharsh] - [CEKNPY]
+- Member 2: [Anakha] - [CEKNPY]
+- Member 3: [Anjima] - [CEKNPY]
 
-### Assignment
-- Use `=` to assign an integer value to a variable.
-    ```plaintext
-    myVar = 5
-    ```
+### Project Description
+[A Useless programming lanugage made using the team Members name (not turing capable)]
 
-### Print
-- Use `anjima` to print a string, integer, or variable value.
-    ```plaintext
-    anjima "Hello, World!".
-    anjima 42.
-    anjima myVar.
-    ```
+### The Problem (that doesn't exist)
+[a lack of programming lanugage using our name :)]
 
-### Increment/Decrement
-- `variable ++` to increment the variable.
-- `variable --` to decrement the variable.
-    ```plaintext
-    myVar ++
-    myVar --
-    ```
+### The Solution (that nobody asked for)
+[This]
 
-### Arithmetic Operations
-- Multiplication: `variable *= value`
-- Division: `variable /= value`
-- Modulus: `variable %= value`
-    ```plaintext
-    myVar *= 2
-    myVar /= 2
-    myVar %= 3
-    ```
+## Technical Details
+### Technologies/Components Used
+For Software:
+- [Languages used] - c
+- [Frameworks used] - none
+- [Libraries used] - none
+- [Tools used] - neovim , git 
 
-### Conditionals
-- Use `if (variable == value) { ... }` to execute code only if the condition is met.
-    ```plaintext
-    if (myVar == 5) {
-        anjima "myVar is 5"
-    }
-    ```
+### Implementation
+For Software:
+# Installation
+[commands]
+- git clone https://github.com/structnull/aaa
+- cd aaa
+- make
+# Run
+[commands]
+- ./aaai <filename.aaa>
 
-### Exit
-- Use `anakha` to exit the program.
-    ```plaintext
-    anakha
-    ```
+---
+Made with ❤️ at TinkerHub Useless Projects 
 
-### Comments
-- Add comments using `#` or `//`.
-    ```plaintext
-    # This is a comment
-    // This is also a comment
-    ```
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProject--24-24?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
