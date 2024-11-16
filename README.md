@@ -2,6 +2,13 @@
 
 # [AAA] 🎯
 
+# SHOW CASE
+
+
+https://github.com/user-attachments/assets/1c999b85-6395-48b8-bb63-ec0ef793ab35
+
+
+
 
 ## Basic Details
 ### Team Name: [Null]
@@ -13,18 +20,18 @@
 - Member 3: [Anjima] - [CEKNPY]
 
 ### Project Description
-[A Useless programming lanugage made using the team Members name (not turing capable)]
+A Useless programming lanugage made using the team Members name (not turing capable)
 
 ### The Problem (that doesn't exist)
-[a lack of programming lanugage using our name :)]
+a lack of programming lanugage using our name :)
 
 ### The Solution (that nobody asked for)
-[This]
+This
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used] - c
+- [Languages used] - c , rust 
 - [Frameworks used] - none
 - [Libraries used] - none
 - [Tools used] - neovim , git 
@@ -36,10 +43,16 @@ For Software:
 - git clone https://github.com/structnull/aaa
 - cd aaa
 - make
+
+## or 
+- cd aaa
+- rustc aaa.rs
 # Run
 [commands]
 - ./aaai <filename.aaa>
-
+- or
+- ./aaa <filename>.aaa
+  
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
